@@ -15,6 +15,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Running the Game
 
+On GitHub, click on the "code" button. Then, copy the HTTPS link or click the double square icon to copy the link automatically. Once the link is cloned, enter your Visual Studio Code IDE
+homepage and select "Clone Git Repository". After choosing that option, a search group tab bar should appear at the top. Paste the HTTPS link (CTRL V). Then, select the option: clone from URL. Select the destination on your computer where you would like the repository to be located. Once the location has been selected, click "Select the repository destination". Then select "Open". The entire folder of the X-Game code should appear. You should be able to view the different folders. Click on the SRC dropdown menu bar. Click on "Play.java" to open the file; select the dropdown menu of the play button and select "Run Code". Once the code is run, ensure the bottom tab of the IDE has the terminal tab open. Then type "java Play [board-size shape-length depth]". Change the board-size, shape-length, and depth dimensions. For a classic tic-tac-toe computer game, I like to type in the command: "java Play 3 3 3". Enjoy playing and navigating the X-Game!
 
 ## Dependency Management
 
